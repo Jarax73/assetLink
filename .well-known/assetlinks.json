@@ -1,1 +1,11 @@
-[]
+[
+    {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mecano.app",
+      "sha256_cert_fingerprints":
+        ["F0:ED:FE:96:8D:87:D0:95:41:FD:BF:87:97:1E:E4:54:B3:B1:F0:A7:01:F3:B9:95:F3:20:56:99:3A:16:AD:AF"]
+    }
+  }
+]
